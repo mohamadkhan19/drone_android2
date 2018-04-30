@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GSDemo</string>
+    <string name="title_activity_demo">GSDemoActivity</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="product_information">Product Information</string>
+    <string name="connection_loose">Status: No Product Connected</string>
+    <string name="sdk_version">DJI SDK Version: 4.4.1</string>
+
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+</resources>
